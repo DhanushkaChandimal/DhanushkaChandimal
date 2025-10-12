@@ -26,7 +26,8 @@ I'm **Dhanushka Chandimal**, a **Full Stack Developer** based in Austin, TX. I c
 |--------|-------------|--------------|--------------------|
 | **Task Management App with TypeScript** | [GitHub Repository](https://github.com/DhanushkaChandimal/Task-Management-App-with-TypeScript.git) | A web-based task management system that allows users to create, update, and organize tasks by priority and due date. Emphasizes clean UI design and structured TypeScript code. | TypeScript, HTML, CSS, DOM Manipulation, Local Storage |
 | **Google Homepage Clone (Vanilla HTML & CSS)** | [GitHub Repository](https://github.com/DhanushkaChandimal/vanilla-html-css-google-clone.git) | A front-end clone of Google’s homepage showcasing responsive design, layout techniques, and pixel-perfect styling without frameworks. | HTML, CSS, Responsive Design, Flexbox |
-
+| **Open Trivia Database Quiz App** | [GitHub Repository](https://github.com/DhanushkaChandimal/Open-Trivia-Database-Quiz-App.git) | An interactive quiz application that fetches trivia questions from an external API, providing users with multiple-choice questions and score tracking. | JavaScript, Fetch API, HTML, CSS |
+| **JavaScript API Dashboard** | [GitHub Repository](https://github.com/DhanushkaChandimal/JavaScript-API-Dashboard.git) | A dynamic dashboard that integrates multiple APIs to display real-time data such as weather, news, and crypto prices with a clean and modern UI. | JavaScript, APIs, HTML, CSS |
 
 ## 🛠 SKILLS & TOOLS
 <p>
