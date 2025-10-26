@@ -19,6 +19,8 @@ I'm **Dhanushka Chandimal**, a **Full Stack Developer** based in Austin, TX. I c
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/31097685/dhanushka)](https://stackoverflow.com/users/31097685/dhanushka)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-dhanushkamcr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanushkamcr@gmail.com)](mailto:dhanushkamcr@gmail.com)
+&nbsp;
+[![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Firefox&logoColor=orange&link=https://dhanushkachandimal.github.io/dhanushka-portfolio/)](https://dhanushkachandimal.github.io/dhanushka-portfolio/)
 
 ### 🧑‍💻 Projects
 
