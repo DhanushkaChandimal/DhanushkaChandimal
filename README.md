@@ -20,13 +20,13 @@ I'm **Dhanushka Chandimal**, a **Full Stack Developer** based in Austin, TX. I c
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-dhanushkamcr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhanushkamcr@gmail.com)](mailto:dhanushkamcr@gmail.com)
 &nbsp;
-[![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Firefox&logoColor=orange&link=https://dhanushkachandimal.github.io/dhanushka-portfolio/)](https://dhanushkachandimal.github.io/dhanushka-portfolio/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=Firefox&logoColor=orange&link=https://dhanushkachandimal.netlify.app/)](https://dhanushkachandimal.netlify.app/)
 
 ### 🧑‍💻 Projects
 
 | Topic | Repository | Description | Technologies Used |
 |--------|-------------|--------------|--------------------|
-| **Personal Portfolio Website** | [GitHub Repository](https://github.com/DhanushkaChandimal/dhanushka-portfolio.git) | https://dhanushkachandimal.github.io/dhanushka-portfolio/ | HTML, CSS, JavaScript, Responsive Design |
+| **Personal Portfolio Website** | [GitHub Repository](https://github.com/DhanushkaChandimal/dhanushka-portfolio.git) | https://dhanushkachandimal.netlify.app/ | HTML, CSS, JavaScript, Responsive Design |
 | **Task Management App with TypeScript** | [GitHub Repository](https://github.com/DhanushkaChandimal/Task-Management-App-with-TypeScript.git) | A web-based task management system that allows users to create, update, and organize tasks by priority and due date. Emphasizes clean UI design and structured TypeScript code. | TypeScript, HTML, CSS, DOM Manipulation, Local Storage |
 | **Google Homepage Clone (Vanilla HTML & CSS)** | [GitHub Repository](https://github.com/DhanushkaChandimal/vanilla-html-css-google-clone.git) | A front-end clone of Google’s homepage showcasing responsive design, layout techniques, and pixel-perfect styling without frameworks. | HTML, CSS, Responsive Design, Flexbox |
 | **Open Trivia Database Quiz App** | [GitHub Repository](https://github.com/DhanushkaChandimal/Open-Trivia-Database-Quiz-App.git) | An interactive quiz application that fetches trivia questions from an external API, providing users with multiple-choice questions and score tracking. | JavaScript, Fetch API, HTML, CSS |
